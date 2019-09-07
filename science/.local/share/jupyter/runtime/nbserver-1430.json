@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/science",
+  "password": false,
+  "pid": 1430,
+  "port": 8888,
+  "secure": false,
+  "token": "363ace53-5798-4c15-a611-bb88e844ccf4",
+  "url": "http://0.0.0.0:8888/"
+}
